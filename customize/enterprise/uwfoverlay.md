@@ -79,6 +79,8 @@ You can often avoid this issue by using UWF to initiate the shut down or restart
 
 -   Use the [UWF\_Filter.RestartSystem](uwf-filterrestartsystem.md) method in the WMI provider [UWF\_Filter](uwf-filter.md).
 
+Windows 10 19H1 and later will automatically restart if the maximum size of the overlay is exceeded.
+
 ## Related topics
 
 
